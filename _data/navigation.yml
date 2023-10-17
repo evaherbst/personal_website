@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: https://evaherbst.github.io/personal_website
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Resources"
+    url: /Resources/
+  - title: "CV"
+    url: https://github.com/evaherbst/Eva-CV
