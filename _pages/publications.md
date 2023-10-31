@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Selected Publications"
 
 excerpt: ""
 header:
@@ -14,8 +14,28 @@ header:
       url: "https://figshare.com/authors/Eva_Herbst/5711444"
 
 ---
+### 2023
+[**3D profiling of mouse epiphyses across ages reveals new potential imaging biomarkers of early spontaneous osteoarthritis**](https://doi.org/10.1111/joa.13834)    
+**Herbst, E. C.**, Evans, L. A. E., Felder, A. A., Javaheri, B., Pitsillides, A. A.
+_Journal of Anatomy_
+{: .notice--info}
+
+[**The functional significance of aberrant cervical counts in sloths: insights from automated exhaustive analysis of cervical
+range of motion**](https://doi.org/10.1098/rspb.2023.1592)      
+Merten, L.J.F, Manafzadeh, A.R., **Herbst, E. C.**, Amson, E., Tambusso, P.S., Arnold, P., Nyakatura, J.A.
+_In Press For Proc R. Soc. B._
+{: .notice--info}
+
+[**Modern three-dimensional digital methods for studying locomotor biomechanics in tetrapods.**](https://doi.org/10.1242/jeb.245132)  
+Demuth, O. E., **Herbst, E. C.**, Polet, D. T., Wiseman, A. L. A., Hutchinson, J. R. 
+_Journal of Experimental Biology_
+{: .notice--info}
+
+
+
+
 ### 2022
-[**A toolbox for the retrodeformation and muscle reconstruction of fossil specimens in Blender**](https://doi.org/10.1098/rsos.220519)
+[**A toolbox for the retrodeformation and muscle reconstruction of fossil specimens in Blender**](https://doi.org/10.1098/rsos.220519)  
 **Herbst, E. C.**, Lautenschlager, S., Fioritti, N., Meade, L., Scheyer, T.M.
 _Royal Society Open Science_
 {: .notice--info}
