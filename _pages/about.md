@@ -8,6 +8,7 @@ header:
 photo_bio:
   - image_path: /assets/images/headshot_v3_Cropped.png
     alt: ""
+    style: "max-width: 250px; height: auto;"
     title: ""
     excerpt: "**Postdoctoral Researcher in Shoulder Biomechanics**<br />
     <br />
