@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eva C. Herbst
-email: eva.herbst@pim.uzh.ch
+title: Dr. Eva C. Herbst
+email: eva.herbst@hest.ethz.ch
 locale: en-GB
 description: >- # this means to ignore newlines until "baseurl:"
   Biomechanist and palaeontologist
-twitter_username: EvaCHerbst
+twitter_username: 
 github_username: evaherbst
 minimal_mistakes_skin: dirt
 search: false
@@ -68,9 +68,9 @@ plugins:
 #    anonymize_ip         : true
 
 author:
-  name   : "Eva C. Herbst"
-  avatar : "/assets/images/website_drawing_in_progress.png"
-  bio    : "biomechanist and palaeontologist"
+  name   : "Dr. Eva C. Herbst"
+  avatar : "/assets/images/Finite_element_shoulder.png"
+  bio    : "clinical biomechanist"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
