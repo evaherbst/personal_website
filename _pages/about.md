@@ -20,8 +20,8 @@ I develop computational shoulder models combining finite element analysis and mu
 {% include feature_row id="photo_bio" type="left" %}
 
 ### Contact
-Institut für Biomechanik
-ETH
+Institut für Biomechanik, 
+ETH, 
 Zurich, Switzerland
 
 [eva.herbst@hest.ethz.ch](eva.herbst@hest.ethz.ch)
