@@ -109,6 +109,9 @@ defaults:
       layout: splash
       author_profile: false
 
+atom_feed:
+  hide: true
+
 category_archive:
   type: liquid
   path: /categories/
