@@ -26,7 +26,7 @@ segmentation:
   - image_path: /assets/images/trabecular_segmentation_video_EH_CBA_No3_20W_cropped.gif
     alt: "Trabecular Segmentation"
     title: "Trabecular Segmentation"
-    excerpt: "[Code and guide](https://github.com/evaherbst/Trabecular_Segmentation_Avizo) on how to segment cortical and trabecular bone, using Avizo. Method can also be applied in other programs. [Video tutorial here.](https://youtu.be/cQ9sBu6SpJw)"
+    excerpt: "[Code and guide](https://github.com/evaherbst/Trabecular_Segmentation_Avizo) on how to segment cortical and trabecular bone, using Avizo. Featured on èofficial Avizo plugin website!(https://www.thermofisher.com/software-em-3d-vis/xtra-library/xtras/trabecular-segmentation-workflow-for-murine-tibial-bone). [Video tutorial here.](https://youtu.be/cQ9sBu6SpJw)"
 
 
 alpha:
