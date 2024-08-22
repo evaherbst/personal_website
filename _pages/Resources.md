@@ -20,13 +20,13 @@ remeshing:
   - image_path: /assets/images/mesh_cleaning.png
     alt: "Blender Remeshing Guide"
     title: "Blender Remeshing Guide"
-    excerpt: "[Workflow](https://github.com/evaherbst/Blender_remeshing_guide) for preparing meshes for FEA, 3D printing, or other biomechanical experiments. [Video tutorial here.](https://www.youtube.com/watch?v=XzAUn76NLXM&t=49s&ab_channel=FunkyMUG)"
+    excerpt: "[Workflow](https://github.com/evaherbst/Blender_remeshing_guide) for preparing meshes for FEA, 3D printing, or other biomechanical experiments. Video tutorial [here](https://www.youtube.com/watch?v=XzAUn76NLXM&t=49s&ab_channel=FunkyMUG)."
 
 segmentation:
   - image_path: /assets/images/trabecular_segmentation_video_EH_CBA_No3_20W_cropped.gif
     alt: "Trabecular Segmentation"
     title: "Trabecular Segmentation"
-    excerpt: "[Code and guide](https://github.com/evaherbst/Trabecular_Segmentation_Avizo) on how to segment cortical and trabecular bone, using Avizo. Featured on [official Avizo plugin website](https://www.thermofisher.com/software-em-3d-vis/xtra-library/xtras/trabecular-segmentation-workflow-for-murine-tibial-bone). Video tutorial [here](https://youtu.be/cQ9sBu6SpJw)".
+    excerpt: "[Code and guide](https://github.com/evaherbst/Trabecular_Segmentation_Avizo) on how to segment cortical and trabecular bone, using Avizo. Featured on [official Avizo plugin website](https://www.thermofisher.com/software-em-3d-vis/xtra-library/xtras/trabecular-segmentation-workflow-for-murine-tibial-bone). Video tutorial [here](https://youtu.be/cQ9sBu6SpJw)."
 
 
 alpha:
