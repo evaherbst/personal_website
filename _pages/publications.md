@@ -16,7 +16,7 @@ header:
 ---
 ### 2024
 [**Patients with constitutional static posterior shoulder instability (Type C1) show significant differences in osseous shoulder morphology, scapulothoracic orientation, and muscle volume compared to healthy controls.**](https://doi.org/10.1177/03635465241233706)
-Akgun, D., Gebauer, H., Paksoy, A., Schafer, F., Herbst, E., Karczewski, D., Pastor, M.F., Moroder, P. 
+Akgun, D., Gebauer, H., Paksoy, A., Schafer, F., **Herbst, E.**, Karczewski, D., Pastor, M.F., Moroder, P. 
 _Am. J. Sports Medicine_
 {: .notice--info}
 
