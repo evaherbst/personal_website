@@ -25,4 +25,5 @@ ETH,
 Zurich, Switzerland
 
 [eva.herbst@hest.ethz.ch](eva.herbst@hest.ethz.ch)
+[LinkedIn](https://www.linkedin.com/in/eva-c-herbst/)
 
