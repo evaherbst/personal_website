@@ -14,26 +14,38 @@ header:
       url: "https://figshare.com/authors/Eva_Herbst/5711444"
 
 ---
+
+### 2025
+[**Large variability in the degree of constraint of reverse total shoulder arthroplasty liners between different implant systems.**]
+Moroder, P., **Herbst, E.**, Pawelke, J., Lappen, S., Schulz, E.(https://doi.org/10.1302/2633-1462.510.BJO-2024-0100.R1)
+_Bone & Joint Open_
+{: .notice--info}
+
 ### 2024
-[**Patients with constitutional static posterior shoulder instability (Type C1) show significant differences in osseous shoulder morphology, scapulothoracic orientation, and muscle volume compared to healthy controls.**](https://doi.org/10.1177/03635465241233706)
+[**Differences in Osseous Shoulder Morphology, Scapulothoracic Orientation, and Muscle Volume in Patients With Constitutional Static Posterior Shoulder Instability (Type C1) Compared With Healthy Controls.**](https://doi.org/10.1177/03635465241233706)
 Akgun, D., Gebauer, H., Paksoy, A., Schafer, F., **Herbst, E.**, Karczewski, D., Pastor, M.F., Moroder, P. 
 _Am. J. Sports Medicine_
 {: .notice--info}
 
+[**Gradual exacerbation of obstetric constraints during hominoid evolution implied by re-evaluation of cephalopelvic fit in chimpanzees.**](https://doi.org/10.1038/s41559-024-02558-7).
+Webb, N.M., Fornai, C., Krenn, V.A., Watson, L.M., **Herbst, E.C.**, Haeusler, M.
+_Nature Ecology & Evolution_
+{: .notice--info}
+
 ### 2023
 [**3D profiling of mouse epiphyses across ages reveals new potential imaging biomarkers of early spontaneous osteoarthritis**](https://doi.org/10.1111/joa.13834)    
-**Herbst, E. C.**, Evans, L. A. E., Felder, A. A., Javaheri, B., Pitsillides, A. A.
+**Herbst, E.C.**, Evans, L. A. E., Felder, A. A., Javaheri, B., Pitsillides, A. A.
 _Journal of Anatomy_
 {: .notice--info}
 
 [**The functional significance of aberrant cervical counts in sloths: insights from automated exhaustive analysis of cervical
 range of motion**](https://doi.org/10.1098/rspb.2023.1592)      
-Merten, L.J.F, Manafzadeh, A.R., **Herbst, E. C.**, Amson, E., Tambusso, P.S., Arnold, P., Nyakatura, J.A.
+Merten, L.J.F, Manafzadeh, A.R., **Herbst, E.C.**, Amson, E., Tambusso, P.S., Arnold, P., Nyakatura, J.A.
 _In Press For Proc R. Soc. B._
 {: .notice--info}
 
 [**Modern three-dimensional digital methods for studying locomotor biomechanics in tetrapods.**](https://doi.org/10.1242/jeb.245132)  
-Demuth, O. E., **Herbst, E. C.**, Polet, D. T., Wiseman, A. L. A., Hutchinson, J. R. 
+Demuth, O. E., **Herbst, E.C.**, Polet, D. T., Wiseman, A. L. A., Hutchinson, J. R. 
 _Journal of Experimental Biology_
 {: .notice--info}
 
@@ -42,18 +54,18 @@ _Journal of Experimental Biology_
 
 ### 2022
 [**A toolbox for the retrodeformation and muscle reconstruction of fossil specimens in Blender**](https://doi.org/10.1098/rsos.220519)  
-**Herbst, E. C.**, Lautenschlager, S., Fioritti, N., Meade, L., Scheyer, T.M.
+**Herbst, E.C.**, Lautenschlager, S., Fioritti, N., Meade, L., Scheyer, T.M.
 _Royal Society Open Science_
 {: .notice--info}
 
 [**In vivo and ex vivo range of motion in the fire salamander *Salamandra salamandra***](https://doi.org/10.1111/joa.13738)              
-**Herbst, E. C.**, Eberhard, E., Richards, C., Hutchinson, J.R.
+**Herbst, E.C.**, Eberhard, E., Richards, C., Hutchinson, J.R.
 _Journal of Anatomy_
 {: .notice--info}
 
 [**Spherical frame projections
 for visualizing joint range of motion, and a complimentary method to capture mobility data**](https://doi.org/10.1111/joa.13717)      
-**Herbst, E. C.***, Eberhard, E.*, Hutchinson, J. R., Richards, C.
+**Herbst, E.C.***, Eberhard, E.*, Hutchinson, J. R., Richards, C.
 _Journal of Anatomy_
 {: .notice--info}
 
@@ -61,7 +73,7 @@ _Journal of Anatomy_
 [**Multi-joint analysis of pose viability
 supports the possibility of salamander-like hindlimb configurations in the Permian
 tetrapod E. megacephalus**](doi.org/10.1093/icb/icac083)   
-**Herbst, E. C.***, Manafzadeh, A. R.*, Hutschinson, J. R. 
+**Herbst, E.C.***, Manafzadeh, A. R.*, Hutschinson, J. R. 
 _Journal of Integrative and Comparative Anatomy icac083_
 {: .notice--info}
 
