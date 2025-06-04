@@ -16,8 +16,8 @@ header:
 ---
 
 ### 2025
-[**Large variability in the degree of constraint of reverse total shoulder arthroplasty liners between different implant systems.**]
-Moroder, P., **Herbst, E.**, Pawelke, J., Lappen, S., Schulz, E.(https://doi.org/10.1302/2633-1462.510.BJO-2024-0100.R1)
+[**Large variability in the degree of constraint of reverse total shoulder arthroplasty liners between different implant systems.**](https://doi.org/10.1302/2633-1462.510.BJO-2024-0100.R1)
+Moroder, P., **Herbst, E.**, Pawelke, J., Lappen, S., Schulz, E.
 _Bone & Joint Open_
 {: .notice--info}
 
