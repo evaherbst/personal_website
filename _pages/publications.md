@@ -17,12 +17,12 @@ header:
 
 ### 2025
 [**Influence of humeral liner constraint in reverse total shoulder arthroplasty on simulated range of motion in patients with various posture types – a modeling study.**](https://thehive-musculoskeletal.com/articles/689d97a76f58907bfb0311ab/detail)
-Lappen S, Siegert P, Raiss P, Denard PJ, Werner BC, Griffin J, Shah A, Poltaretskyi S, Metcalfe N, Herbst EC, Moroder P. 
+Lappen S, Siegert P, Raiss P, Denard PJ, Werner BC, Griffin J, Shah A, Poltaretskyi S, Metcalfe N, **Herbst EC**, Moroder P. 
 _The Hive Muskuloskeletal Journal_
 {: .notice--info}
 
 [**Large variability in the degree of constraint of reverse total shoulder arthroplasty liners between different implant systems.**](https://doi.org/10.1302/2633-1462.510.BJO-2024-0100.R1)
-Moroder P, **Herbst E**, Pawelke J, Lappen S, Schulz E.
+Moroder P, **Herbst EC**, Pawelke J, Lappen S, Schulz E.
 _Bone & Joint Open_
 {: .notice--info}
 
