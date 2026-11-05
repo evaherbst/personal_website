@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr. Eva C. Herbst
-email: eva.herbst@hest.ethz.ch
+email: eherbst@ic.ac.uk
 locale: en-GB
 description: >- # this means to ignore newlines until "baseurl:"
   Biomechanist and palaeontologist
