@@ -6,7 +6,7 @@ header:
   overlay_color: "#333"
 
 photo_bio:
-  - image_path: /assets/images/Headshot_Herbst_square.jpg
+  - image_path: /assets/images/headshot_lightened_v2.png
     alt: ""
     style: "max-width: 250px; height: auto;"
     title: ""
