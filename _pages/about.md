@@ -20,10 +20,10 @@ I develop computational shoulder models to investigate the effect of subject spe
 {% include feature_row id="photo_bio" type="left" %}
 
 ### Contact
-Sir Michael Uren Hub
-White City Campus
-Imperial College London
-London, W12 0BZ
+Sir Michael Uren Hub <br />
+White City Campus <br />
+Imperial College London <br />
+London, W12 0BZ <br />
 
 [e.herbst@ic.ac.uk](e.herbst@ic.ac.uk)  -  [LinkedIn](https://www.linkedin.com/in/eva-c-herbst/)
 
